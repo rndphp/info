@@ -3,6 +3,7 @@
 - [Манифест](./manifest.md)
 - [Основной сайт сообщества](https://tglink.ru/rndphp)
   - [Правила основного канала](./rules.md)
+  - [Кодекс поведения](./code_of_conduct.md)
 - [Группа вконтакте](https://vk.com/rnd_php)
 
 
