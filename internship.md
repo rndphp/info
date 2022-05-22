@@ -8,4 +8,4 @@
 | Oggetto        | [oggetto.academy](http://oggetto.academy/#courses)              | Очная  | Таганрог, Ростов-на-Дону(?) | [academy@oggettoweb.com](mailto:academy@oggettoweb.com)                                    |
 | Work Solutions | [junior.worksolutions.ru](https://junior.worksolutions.ru/)     | Очная  | Ростов-на-Дону              | [hr@worksolutions.ru](mailto:hr@worksolutions.ru)                                          |
 
-P.S. сортировка компания [А-Я A-Z] (стандартная в googledocs/excel)
+P.S. сортировка компаний [А-Я A-Z] (стандартная в googledocs/excel)
