@@ -8,4 +8,6 @@
 | Oggetto        | [oggetto.academy](http://oggetto.academy/#courses)              | Очная  | Таганрог, Ростов-на-Дону(?) | [academy@oggettoweb.com](mailto:academy@oggettoweb.com)                                    |
 | Work Solutions | [junior.worksolutions.ru](https://junior.worksolutions.ru/)     | Очная  | Ростов-на-Дону              | [hr@worksolutions.ru](mailto:hr@worksolutions.ru)                                          |
 
+Если у вас есть стажировка по PHP для новичков и студентов или хотите скорректировать информацию, присылайте свой pullRequest, или пишите [@northleshiy](https://t.me/northleshiy).
+
 P.S. сортировка компаний [А-Я A-Z] (стандартная в googledocs/excel)
