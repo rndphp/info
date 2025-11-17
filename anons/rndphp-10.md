@@ -24,21 +24,18 @@
 
 **Афтепати** - после окончания докладов, мы перемешаемся в ресторан, для общения.
 
-## При поддержке [ВебПрактик](https://webpractik.ru/?utm_source=github&utm_medium=social&utm_campaign=rndphp10), [Тандал](https://tandal.ru/?utm_source=github&utm_medium=social&utm_campaign=rndphp10).
+## При поддержке [ВебПрактик](https://webpractik.ru/?utm_source=github&utm_medium=social&utm_campaign=rndphp10), [Тандал](https://tandal.ru/?utm_source=github&utm_medium=social&utm_campaign=rndphp10), [WebJox](https://webjox.ru/?utm_source=github&utm_medium=social&utm_campaign=rndphp10).
 
 Команда организаторов выражает благодарность нашим партнерам за поддержку, она позволяет мероприятию оставаться бесплатным для участников.
 
 ## Способы поддержки
 
-В этот раз мы не смогли найти достаточно партнеров, чтобы закрыть все наши расходы, поэтому мы будем рады вашей помощи.
+Мы всегда рады получить поддержку от членов сообщества.
 
 Вот несколько способов, как вы можете нас поддержать:
 
-* Сбор средств в https://www.tbank.ru/cf/6TUA7OSVtt2, автор сбора [Николай Шаповалов](https://t.me/drup8)
 * Рассказать о мероприятия своим друзьям и знакомым.
-* Выступить с докладом на будущих митапах — [заявка на доклад](https://docs.google.com/forms/d/1db0PUerbwK5YLjGO0n-LGT4XVsPSE5tuMRytwzVw594/edit).
-
-[Подробнее о том на что идут средства](https://t.me/c/1330449556/2000).
+* Выступить с докладом — [заявка на доклад](https://docs.google.com/forms/d/1db0PUerbwK5YLjGO0n-LGT4XVsPSE5tuMRytwzVw594/edit).
 
 ## Подробная программа
 
